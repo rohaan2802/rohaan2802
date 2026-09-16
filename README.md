@@ -1540,11 +1540,11 @@ AUTO --> INTEL
 ```text
 ┌─ OPEN TO COLLABORATION ───────────────────────────────────────┐
 │                                                               │
-│  🧠 Artificial Intelligence     🤖 Robotics                   │
-│  👁 Computer Vision             ⚙️ Backend Systems            │
-│  📊 Machine Learning            🔌 Embedded Systems           │
-│  🧬 Deep Learning               ⚡ Parallel Computing          │
-│  📐 Data / Scientific Computing 💻 Software Engineering       │
+│  🧠 Artificial Intelligence     🤖 Robotics                  │
+│  👁 Computer Vision             ⚙️ Backend Systems           │
+│  📊 Machine Learning            🔌 Embedded Systems          │
+│  🧬 Deep Learning               ⚡ Parallel Computing        │
+│  📐 Data / Scientific Computing 💻 Software Engineering      │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
 ```
