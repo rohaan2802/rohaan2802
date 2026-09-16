@@ -1542,7 +1542,7 @@ AUTO --> INTEL
 │                                                               │
 │  🧠 Artificial Intelligence     🤖 Robotics                  │
 │  👁 Computer Vision             ⚙️ Backend Systems           │
-│  📊 Machine Learning            🔌 Embedded Systems          │
+│  📊 Machine Learning            🔌 Embedded Systems          │                                                               │
 │  🧬 Deep Learning               ⚡ Parallel Computing        │
 │  📐 Data / Scientific Computing 💻 Software Engineering      │
 │                                                               │
