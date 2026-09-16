@@ -1,107 +1,88 @@
-<!-- ========================= HERO ========================= -->
+<!-- ========================================================= -->
+
+<!--                    MOHAMMAD ROHAAN                         -->
+
+<!--                 GITHUB DEVELOPER PROFILE                   -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Mohammad%20Rohaan&fontAlign=50&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Robotics%20%7C%20Software%20Engineering&descAlign=50&descAlignY=58&animation=fadeIn&fontSize=48" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Mohammad%20Rohaan&fontSize=52&fontAlignY=37&desc=Computer%20Science%20%E2%80%A2%20AI%20%E2%80%A2%20Robotics%20%E2%80%A2%20Software%20Engineering&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=900&center=true&vCenter=true&width=900&height=60&lines=Artificial+Intelligence+%26+Machine+Learning+%F0%9F%A7%A0;Computer+Vision+%26+Deep+Learning+%F0%9F%91%81%EF%B8%8F;Robotics+%26+Embedded+Systems+%F0%9F%A4%96;Backend+%26+Software+Engineering+%E2%9A%99%EF%B8%8F;Parallel+%26+Distributed+Computing+%F0%9F%9A%80;Turning+Algorithms+Into+Real+Systems+%F0%9F%92%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=650&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=55&lines=%3E+Building+Intelligent+Systems...;%3E+Engineering+Computer+Vision+Solutions...;%3E+Developing+Robotics+%26+Embedded+Systems...;%3E+Exploring+Machine+Learning+%26+Deep+Learning...;%3E+Writing+Software+from+Algorithms+to+Systems...;%3E+Exploring+Agentic+AI..."/>
 
-<br/>
-
-### `Software` × `Intelligence` × `Data` × `Mathematics` × `Hardware`
+### `AI` × `SOFTWARE` × `DATA` × `MATHEMATICS` × `HARDWARE`
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Explore-000000?style=for-the-badge)](https://rohaan2802.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/m-rohaan-944a82320/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/rohaan2802)
-[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:m.rohaanarshad@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore-111111?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://rohaan2802.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/m-rohaan-944a82320/)
+[![GitHub](https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rohaan2802)
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohaan2802\&style=for-the-badge\&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/rohaan2802?style=for-the-badge\&logo=github\&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=rohaan2802\&style=flat-square\&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/rohaan2802?style=flat-square\&logo=github\&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/rohaan2802?style=flat-square\&logo=github\&label=TOTAL+STARS)
 
 </div>
 
 ---
 
-<!-- ========================= NAVIGATION ========================= -->
-
 <div align="center">
 
-## 🧭 Developer Dashboard
+## 🧭 SYSTEM NAVIGATION
 
-**[🧠 AI & ML](#-artificial-intelligence--machine-learning)**
+`ABOUT`
   •  
-**[🤖 Robotics](#-robotics--embedded-systems)**
+`PROJECTS`
   •  
-**[💻 CS](#-computer-science-core)**
+`AI / ML`
   •  
-**[📐 Mathematics](#-mathematical-foundations)**
+`ROBOTICS`
   •  
-**[🚀 Projects](#-featured-engineering-projects)**
+`CS CORE`
   •  
-**[📊 Analytics](#-github-dashboard)**
+`MATHEMATICS`
+  •  
+`TECH STACK`
+  •  
+`COURSEWORK`
+  •  
+`GITHUB`
 
 </div>
 
 ---
 
-# 👨‍💻 Developer Profile
+# 👨‍💻 Developer Console
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Primary Focus
-
-```yaml
-name: Mohammad Rohaan
-field: Computer Science
-
-focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
-  - Robotics
-  - Software Engineering
-
-interests:
-  - Intelligent Systems
-  - Autonomous Systems
-  - Backend Engineering
-  - Embedded Computing
-  - Parallel Computing
+```text
+┌─[ rohaan2802@github ]────────────────────────────────────────────────────┐
+│                                                                          │
+│  $ whoami                                                                │
+│  > Mohammad Rohaan                                                       │
+│  > BS Computer Science                                                   │
+│  > FAST-NUCES Islamabad                                                  │
+│                                                                          │
+│  $ primary-languages                                                     │
+│  > C++  •  C  •  Python  •  Java  •  MATLAB                             │
+│                                                                          │
+│  $ engineering-focus                                                     │
+│  > AI / ML  •  Computer Vision  •  Robotics  •  Software Engineering     │
+│                                                                          │
+│  $ systems                                                               │
+│  > Algorithms  •  OS  •  Databases  •  Networks  •  Parallel Computing  │
+│                                                                          │
+│  $ current-mission                                                       │
+│  > Agentic AI  •  Security  •  Statistics  •  FYP                       │
+│                                                                          │
+│  $ status                                                                │
+│  > Building. Learning. Experimenting. █                                  │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ Current Environment
-
-```yaml
-education:
-  BS Computer Science
-  FAST-NUCES Islamabad
-
-currently_exploring:
-  - Agentic AI
-  - Information Security
-  - Statistical Modelling
-  - Digital Sustainability
-
-building:
-  - AI Systems
-  - Robotics
-  - Backend Applications
-  - Computer Vision Systems
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -109,9 +90,12 @@ building:
 
 <table>
 <tr>
-<td width="33%" align="center">
 
-### 🧠 AI
+<td width="25%" align="center">
+
+### 🧠
+
+### AI / ML
 
 Machine Learning
 Deep Learning
@@ -122,22 +106,26 @@ Agentic AI
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### ⚙️ Engineering
+### 💻
 
-Software Engineering
-Backend Systems
-Databases
-Distributed Computing
-Operating Systems
+### Software
+
 Algorithms
+Backend
+Databases
+Operating Systems
+Networks
+Software Design
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### 🤖 Robotics
+### 🤖
+
+### Robotics
 
 Embedded Systems
 ESP32
@@ -147,173 +135,309 @@ Robot Control
 ML for Robotics
 
 </td>
+
+<td width="25%" align="center">
+
+### 📐
+
+### Computing Math
+
+Linear Algebra
+Probability
+Statistics
+Calculus
+Differential Equations
+Numerical Computing
+
+</td>
+
 </tr>
 </table>
 
-I am a **Computer Science student at FAST-NUCES Islamabad** interested in designing systems at the intersection of **AI, software engineering, mathematical computing, and robotics**.
+I'm a **Computer Science student at FAST-NUCES Islamabad** interested in engineering systems at the intersection of **artificial intelligence, software, mathematics, data, and physical computing**.
 
-My work ranges from training computer-vision models and developing backend systems to implementing data structures, concurrent programs, databases, and embedded robotic systems.
+My work spans **C/C++ systems programming, Python-based AI/ML, Java/Spring Boot backend development, computer vision, databases, parallel computing, and embedded robotics**.
 
-> ### 💡 Engineering Goal
+I particularly enjoy projects where multiple CS domains meet — for example, applying **computer vision to robotics**, using **data structures and algorithms to build software systems**, or combining **concurrency, hardware, sensors, and control logic**.
+
+> ### ⚡ Engineering Direction
 >
-> Build systems where **algorithms become software, software becomes intelligence, and intelligence interacts with the real world.**
+> **From algorithms → to software → to intelligence → to real-world systems.**
 
 ---
 
-# 🚀 Featured Engineering Projects
+# 🧬 Developer DNA
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏸 ShuttleBot
-
-**AI-Powered Badminton Service Robot**
-
-`YOLOv8` `Python` `Computer Vision` `Robotics`
-
-Real-time shuttlecock detection system developed for autonomous badminton robotics.
-
-**Core Engineering**
-
-* Object Detection
-* Dataset Preparation
-* Model Training
-* Real-Time Inference
-* Computer Vision
-* Robotics Integration
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 Library Management System
-
-**Full-Stack Library Platform**
-
-`Java` `Spring Boot` `SQL` `Thymeleaf`
-
-Backend-driven library system implementing structured application architecture and database workflows.
-
-**Core Engineering**
-
-* MVC
-* Dependency Injection
-* Repository Pattern
-* Service Layer
-* Transactions
-* Reporting
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ✈️ TravelEase
-
-**Travel Management Platform**
-
-`C#` `.NET` `SQL Server`
-
-Database-oriented travel management application supporting bookings, payments, trips and analytics.
-
-**Core Engineering**
-
-* ERD / EERD
-* Relational Modelling
-* Database Constraints
-* Backend Logic
-* Reporting
-* Application Architecture
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌳 Git Lite
-
-**Mini Version-Control System**
-
-`C++` `DSA` `Trees` `Graphs` `Hashing`
-
-Version-control system implementing fundamental repository and commit-management concepts.
-
-**Core Engineering**
-
-* Trees
-* Graphs
-* Hashing
-* Commit History
-* Diff / Merge
-* File Processing
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ✈️ Concurrent Airline System
-
-**Concurrent Booking Simulation**
-
-`C` `pthreads` `Mutexes` `Semaphores`
-
-Operating-systems project focused on synchronization and concurrent resource access.
-
-**Core Engineering**
-
-* Threads
-* Race Conditions
-* Critical Sections
-* Mutexes
-* Semaphores
-* Synchronization
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Multi-Robot System
-
-**Synchronized Robotic Cars**
-
-`ESP32` `Arduino` `Python` `Sensors`
-
-Hardware/software system for synchronized robotic vehicle control.
-
-**Core Engineering**
-
-* Embedded Programming
-* Sensor Integration
-* Robot Coordination
-* Ultrasonic Sensors
-* IMU / Gyroscope
-* Hardware Integration
-
-</td>
-
-</tr>
-</table>
+```text
+                             ┌─────────────────────┐
+                             │  COMPUTER SCIENCE   │
+                             └──────────┬──────────┘
+                                        │
+                 ┌──────────────────────┼──────────────────────┐
+                 │                      │                      │
+                 ▼                      ▼                      ▼
+        ┌────────────────┐     ┌────────────────┐     ┌────────────────┐
+        │ INTELLIGENCE   │     │    SOFTWARE    │     │    HARDWARE    │
+        └───────┬────────┘     └───────┬────────┘     └───────┬────────┘
+                │                      │                      │
+          AI • ML • DL            DSA • OS • DB          ESP32 • Arduino
+          CV • NLP • Stats        Networks • SE           Sensors • Robots
+                │                      │                      │
+                └──────────────────────┼──────────────────────┘
+                                       │
+                                       ▼
+                             ┌─────────────────────┐
+                             │ INTELLIGENT SYSTEMS │
+                             └─────────────────────┘
+```
 
 ---
 
-# 🧠 Artificial Intelligence & Machine Learning
+# 💻 Primary Language Stack
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge)
-![ML](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![DL](https://img.shields.io/badge/Deep_Learning-111111?style=for-the-badge)
-![CV](https://img.shields.io/badge/Computer_Vision-102230?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-111111?style=for-the-badge)
-![NN](https://img.shields.io/badge/Neural_Networks-102230?style=for-the-badge)
+### Languages I work with most
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java&theme=dark" />
+
+<br/><br/>
+
+![MATLAB](https://img.shields.io/badge/MATLAB-Primary_Technical_Computing-0076A8?style=for-the-badge)
+
+<br/>
+
+### `C++` • `C` • `Python` • `Java` • `MATLAB`
+
+<br/>
+
+**Also work with**
+
+![CSharp](https://skillicons.dev/icons?i=cs)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+<br/>
+
+`SQL` • `T-SQL` • `x86 Assembly`
+
+</div>
+
+---
+
+# 🚀 Featured Engineering Systems
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏸 ShuttleBot
+
+### Intelligent Badminton Service Robot
+
+**AI • Computer Vision • Robotics**
+
+`Python` `YOLOv8` `OpenCV` `ML`
+
+Computer-vision system for real-time shuttlecock detection as part of an autonomous badminton service robot.
+
+**Engineering Stack**
+
+▸ Object Detection
+▸ Dataset Preparation
+▸ Image Annotation
+▸ Model Training
+▸ Model Evaluation
+▸ Real-Time Inference
+▸ Computer Vision
+▸ Robotics Integration
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 LibraryMS
+
+### Library Management System
+
+**Backend • Database • Software Engineering**
+
+`Java` `Spring Boot` `SQL` `Thymeleaf`
+
+Structured library platform covering borrowing, fines, administrative operations, reporting and persistence.
+
+**Engineering Stack**
+
+▸ MVC
+▸ Dependency Injection
+▸ Repository Pattern
+▸ Service Layer
+▸ Entity Modelling
+▸ Transactions
+▸ Reporting
+▸ Database Integration
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌳 Git Lite
+
+### Lightweight Version Control
+
+**Algorithms • DSA • Systems**
+
+`C++` `Trees` `Graphs` `Hashing`
+
+Mini version-control system based on fundamental data structures and repository concepts.
+
+**Engineering Stack**
+
+▸ Commit Trees
+▸ Graph Structures
+▸ Hashing
+▸ File Processing
+▸ Diff
+▸ Merge
+▸ History Traversal
+▸ Unit Testing
+
+</td>
+
+<td width="50%" valign="top">
+
+## ✈️ TravelEase
+
+### Travel Management Platform
+
+**Desktop • Database • Analytics**
+
+`C#` `.NET` `SQL Server`
+
+Database-backed travel platform supporting trips, bookings, payments, service providers and reporting.
+
+**Engineering Stack**
+
+▸ ERD / EERD
+▸ Relational Modelling
+▸ Normalization
+▸ Constraints
+▸ Database Logic
+▸ Application Architecture
+▸ Reporting
+▸ Analytics
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 Multi-Robot System
+
+### Synchronized Robotic Cars
+
+**Embedded • Robotics • Sensors**
+
+`ESP32` `Arduino` `Python`
+
+Multi-robot project focused on coordinated movement and hardware/software interaction.
+
+**Engineering Stack**
+
+▸ Embedded Programming
+▸ ESP32
+▸ Sensor Integration
+▸ Ultrasonic Sensors
+▸ IMU / Gyroscope
+▸ Robot Coordination
+▸ Control Logic
+▸ Hardware Integration
+
+</td>
+
+<td width="50%" valign="top">
+
+## ✈️ Airline Management
+
+### Concurrent Booking System
+
+**OS • Concurrency • Systems Programming**
+
+`C` `pthreads` `Semaphores`
+
+Concurrent airline simulation applying operating-system synchronization concepts.
+
+**Engineering Stack**
+
+▸ POSIX Threads
+▸ Mutexes
+▸ Semaphores
+▸ Critical Sections
+▸ Race Conditions
+▸ Shared Resources
+▸ Synchronization
+▸ Concurrent Transactions
+
+</td>
+
+</tr>
+
+</table>
+
+<details>
+<summary><b>🧪 More Software & Experimental Work</b></summary>
+
+<br/>
+
+`Plagiarism Checker`
+
+`Chess`
+
+`Space Shooter`
+
+`Console Notepad`
+
+`Shopping Portal`
+
+`NLP Experiments`
+
+`Machine Learning Notebooks`
+
+`Parallel K-Means`
+
+`Sparse Matrix / HPC Experiments`
+
+`Responsive Web Interfaces`
+
+`Database Applications`
+
+`Robotics Experiments`
+
+</details>
+
+---
+
+# 🧠 AI / ML Control Center
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-111827?style=for-the-badge)
+![ML](https://img.shields.io/badge/MACHINE_LEARNING-1F2937?style=for-the-badge)
+![DL](https://img.shields.io/badge/DEEP_LEARNING-111827?style=for-the-badge)
+![CV](https://img.shields.io/badge/COMPUTER_VISION-1F2937?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-111827?style=for-the-badge)
 
 </div>
 
@@ -322,21 +446,38 @@ Hardware/software system for synchronized robotic vehicle control.
 
 <br/>
 
+### Intelligent Problem Solving
+
 `Intelligent Agents`
-`Problem Solving`
-`State-Space Search`
-`BFS`
-`DFS`
+`State Spaces`
+`Problem Formulation`
+`Search Trees`
+`Search Graphs`
+
+### Uninformed Search
+
+`Breadth-First Search`
+`Depth-First Search`
 `Uniform-Cost Search`
-`Heuristic Search`
+
+### Informed Search
+
+`Heuristics`
 `Greedy Best-First Search`
-`A*`
-`Adversarial Search`
+`A* Search`
+
+### Adversarial AI
+
+`Game Trees`
 `Minimax`
 `Alpha-Beta Pruning`
+
+### Additional Foundations
+
 `Constraint Satisfaction`
 `Knowledge Representation`
 `Reasoning`
+`Decision Making`
 
 </details>
 
@@ -345,25 +486,56 @@ Hardware/software system for synchronized robotic vehicle control.
 
 <br/>
 
+### Learning Paradigms
+
 `Supervised Learning`
 `Unsupervised Learning`
 `Regression`
 `Classification`
 `Clustering`
-`Feature Engineering`
-`Data Preprocessing`
+
+### ML Pipeline
+
+```text
+Raw Data
+   │
+   ▼
+Preprocessing
+   │
+   ▼
+Feature Engineering
+   │
+   ▼
+Train / Validation / Test
+   │
+   ▼
+Model Training
+   │
+   ▼
+Evaluation
+   │
+   ▼
+Hyperparameter Tuning
+   │
+   ▼
+Inference
+```
+
+### Concepts
+
 `Feature Selection`
 `Cross Validation`
-`Regularization`
+`Overfitting`
+`Underfitting`
 `Bias–Variance Tradeoff`
+`Regularization`
 `Hyperparameter Tuning`
 `Model Evaluation`
-`Training / Validation / Testing`
 
 </details>
 
 <details>
-<summary><b>🧬 Neural Networks & Deep Learning</b></summary>
+<summary><b>🧬 Deep Learning & Neural Networks</b></summary>
 
 <br/>
 
@@ -386,17 +558,18 @@ Hardware/software system for synchronized robotic vehicle control.
 
 <br/>
 
+`Digital Images`
 `Image Processing`
 `Image Classification`
 `Object Detection`
 `Bounding Boxes`
 `CNN-Based Vision`
 `YOLOv8`
-`Dataset Annotation`
+`Annotation`
 `Training Pipelines`
-`Inference Pipelines`
-`Real-Time Detection`
-`Vision for Robotics`
+`Inference`
+`Real-Time Vision`
+`Computer Vision for Robotics`
 
 </details>
 
@@ -411,79 +584,97 @@ Hardware/software system for synchronized robotic vehicle control.
 `Feature Extraction`
 `Text Classification`
 `NLP Pipelines`
-`Language-Based ML Systems`
+`Language-Based ML Applications`
 
 </details>
 
-### 🧰 AI / Data Toolkit
+### AI / Data Toolkit
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![Scikit Learn](https://skillicons.dev/icons?i=sklearn)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-Object_Detection-111F68?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square\&logo=scipy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-11557C?style=flat-square)
 
 </div>
 
 ---
 
-# 🤖 Robotics & Embedded Systems
+# 🤖 Robotics & Embedded Laboratory
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 Robotics
+## 🤖 Robotics
 
-`Forward Kinematics`
-`Inverse Kinematics`
-`Homogeneous Transformations`
-`Coordinate Frames`
-`Robot Motion`
-`Robot Control`
-`Autonomous Systems`
-`Multi-Robot Coordination`
-`Sensor-Based Robotics`
-`ML for Robotics`
-`Computer Vision for Robotics`
+```text
+Robotics
+│
+├── Coordinate Frames
+├── Homogeneous Transformations
+│
+├── Kinematics
+│   ├── Forward Kinematics
+│   └── Inverse Kinematics
+│
+├── Robot Motion
+├── Robot Control
+│
+├── Perception
+│   └── Computer Vision
+│
+└── Intelligence
+    └── Machine Learning for Robotics
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔌 Embedded Systems
+## 🔌 Embedded Computing
 
-`Microcontrollers`
-`Embedded Programming`
-`GPIO`
-`Sensor Integration`
-`Ultrasonic Sensors`
-`IMU / Gyroscope`
-`Actuators`
-`Serial Communication`
-`Hardware–Software Integration`
-`Real-Time Control Concepts`
+```text
+Embedded Systems
+│
+├── Microcontrollers
+│   ├── ESP32
+│   └── Arduino
+│
+├── Sensors
+│   ├── Ultrasonic
+│   └── IMU / Gyroscope
+│
+├── GPIO
+├── Serial Communication
+├── Control Logic
+│
+└── Hardware ↔ Software Integration
+```
 
 </td>
+
 </tr>
 </table>
 
 <div align="center">
 
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge\&logo=espressif\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+
+<br/><br/>
+
+![ESP32](https://img.shields.io/badge/ESP32-Embedded-000000?style=for-the-badge\&logo=espressif)
+![ROS](https://img.shields.io/badge/ROS-Robotics-22314E?style=for-the-badge\&logo=ros)
+![MATLAB](https://img.shields.io/badge/MATLAB-Robotics-0076A8?style=for-the-badge)
 
 </div>
 
@@ -491,26 +682,29 @@ Hardware/software system for synchronized robotic vehicle control.
 
 # 💻 Computer Science Core
 
+> Click a module to explore the knowledge area.
+
 <details>
 <summary><b>🌳 Data Structures & Algorithms</b></summary>
 
 <br/>
 
-### Data Structures
+### Linear Structures
 
 `Arrays`
 `Linked Lists`
 `Stacks`
 `Queues`
 `Priority Queues`
+
+### Non-Linear Structures
+
 `Trees`
 `Binary Trees`
-`BST`
+`Binary Search Trees`
 `Heaps`
-`Hash Tables`
 `Graphs`
-`Adjacency Lists`
-`Adjacency Matrices`
+`Hash Tables`
 
 ### Algorithms
 
@@ -522,10 +716,10 @@ Hardware/software system for synchronized robotic vehicle control.
 `Dynamic Programming`
 `BFS`
 `DFS`
-`Shortest Paths`
-`Minimum Spanning Trees`
+`Shortest-Path Concepts`
+`Minimum-Spanning-Tree Concepts`
 
-### Analysis
+### Complexity
 
 `Time Complexity`
 `Space Complexity`
@@ -534,43 +728,46 @@ Hardware/software system for synchronized robotic vehicle control.
 `Big-Θ`
 `Recurrence Relations`
 `Algorithm Correctness`
-`Performance Analysis`
 
 </details>
 
 <details>
-<summary><b>🖥️ Operating Systems & Systems Programming</b></summary>
+<summary><b>🖥️ Operating Systems</b></summary>
 
 <br/>
 
-`Processes`
-`Threads`
-`Multithreading`
-`CPU Scheduling`
-`Synchronization`
-`Critical Sections`
-`Race Conditions`
-`Mutexes`
-`Semaphores`
-`Deadlocks`
-`IPC`
-`Pipes`
-`Named Pipes`
-`Signals`
-`Memory Management`
-`Virtual Memory`
-`File Systems`
-
-### Linux / POSIX
-
-`fork()`
-`exec()`
-`wait()`
-`pipe()`
-`dup()`
-`dup2()`
-`pthreads`
-`POSIX Semaphores`
+```text
+Operating Systems
+│
+├── Processes
+│   ├── Process Creation
+│   ├── fork()
+│   ├── exec()
+│   └── wait()
+│
+├── Threads
+│   ├── pthreads
+│   └── Multithreading
+│
+├── Synchronization
+│   ├── Race Conditions
+│   ├── Critical Sections
+│   ├── Mutexes
+│   └── Semaphores
+│
+├── IPC
+│   ├── Pipes
+│   ├── Named Pipes
+│   ├── Signals
+│   ├── dup()
+│   └── dup2()
+│
+├── Deadlocks
+├── CPU Scheduling
+├── Memory Management
+├── Virtual Memory
+└── File-System Concepts
+```
 
 </details>
 
@@ -582,13 +779,11 @@ Hardware/software system for synchronized robotic vehicle control.
 `Parallel Computing`
 `Distributed Computing`
 `Concurrency`
-`Shared-Memory Programming`
+`Shared Memory`
 `Data Parallelism`
 `Task Parallelism`
 `Parallel Decomposition`
 `Synchronization`
-`Race Conditions`
-`Critical Sections`
 `OpenMP`
 `Parallel Loops`
 `Work Sharing`
@@ -606,16 +801,16 @@ Hardware/software system for synchronized robotic vehicle control.
 
 <br/>
 
+### Database Design
+
 `Relational Model`
 `ERD`
 `EERD`
 `Primary Keys`
 `Foreign Keys`
+`Relationships`
 `Functional Dependencies`
 `Normalization`
-`Transactions`
-`ACID`
-`Concurrency`
 
 ### SQL
 
@@ -630,6 +825,13 @@ Hardware/software system for synchronized robotic vehicle control.
 `Functions`
 `Constraints`
 `Transactions`
+
+### Database Systems
+
+`ACID`
+`Transaction Processing`
+`Concurrency Concepts`
+`Data Integrity`
 `Data Cleaning`
 
 </details>
@@ -645,17 +847,19 @@ Hardware/software system for synchronized robotic vehicle control.
 `Transport Layer`
 `Network Layer`
 `Data-Link Layer`
+`TCP`
+`UDP`
 `IP Addressing`
 `Subnetting`
 `Routing`
 `Switching`
-`TCP`
-`UDP`
 `DNS`
 `DHCP`
-`HTTP / HTTPS`
-`Sockets`
+`HTTP`
+`HTTPS`
+`Socket Fundamentals`
 `Packet Analysis`
+`Cisco Packet Tracer`
 
 </details>
 
@@ -663,6 +867,8 @@ Hardware/software system for synchronized robotic vehicle control.
 <summary><b>🏗️ Software Engineering & Design</b></summary>
 
 <br/>
+
+### Engineering
 
 `SDLC`
 `Requirements Engineering`
@@ -673,7 +879,11 @@ Hardware/software system for synchronized robotic vehicle control.
 `Software Architecture`
 `Testing`
 `Maintenance`
-`Agile`
+`Version Control`
+`Agile Concepts`
+
+### Design
+
 `Object-Oriented Design`
 `Modularity`
 `Abstraction`
@@ -689,11 +899,13 @@ Hardware/software system for synchronized robotic vehicle control.
 </details>
 
 <details>
-<summary><b>🔌 Digital Logic & Computer Architecture</b></summary>
+<summary><b>🔌 Digital Logic & Computer Organization</b></summary>
 
 <br/>
 
-`Binary Number Systems`
+### Digital Logic
+
+`Binary Systems`
 `Boolean Algebra`
 `Logic Gates`
 `Combinational Logic`
@@ -701,11 +913,16 @@ Hardware/software system for synchronized robotic vehicle control.
 `Flip-Flops`
 `Registers`
 `Counters`
+
+### Computer Organization
+
 `CPU Organization`
-`Memory Organization`
+`Registers`
 `Instruction Execution`
+`Memory Organization`
 `Addressing Modes`
 `Machine Instructions`
+`Assembly Language`
 `x86 Assembly`
 
 </details>
@@ -732,14 +949,15 @@ Hardware/software system for synchronized robotic vehicle control.
 
 ---
 
-# 📐 Mathematical Foundations
+# 📐 Mathematical Computing
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-### 📊 Linear Algebra
+## 📊 Linear Algebra
 
 `Vectors`
 `Matrices`
@@ -747,7 +965,9 @@ Hardware/software system for synchronized robotic vehicle control.
 `RREF`
 `Rank`
 `Vector Spaces`
-`Basis & Dimension`
+`Subspaces`
+`Basis`
+`Dimension`
 `Linear Transformations`
 `Eigenvalues`
 `Eigenvectors`
@@ -755,6 +975,7 @@ Hardware/software system for synchronized robotic vehicle control.
 `Orthogonality`
 `Gram-Schmidt`
 `Projections`
+`Norms`
 `Quadratic Forms`
 `SVD`
 `PCA`
@@ -763,20 +984,21 @@ Hardware/software system for synchronized robotic vehicle control.
 
 <td width="50%" valign="top">
 
-### 🎲 Probability & Statistics
+## 🎲 Probability & Statistics
 
 `Probability Rules`
 `Conditional Probability`
 `Bayes' Theorem`
 `Random Variables`
-`Distributions`
+`Discrete Distributions`
+`Continuous Distributions`
 `Expectation`
 `Variance`
 `Sampling`
+`Descriptive Statistics`
 `Correlation`
 `Regression Foundations`
 `Statistical Inference`
-`Statistical Modelling`
 
 </td>
 
@@ -786,12 +1008,14 @@ Hardware/software system for synchronized robotic vehicle control.
 
 <td width="50%" valign="top">
 
-### ∫ Calculus
+## ∫ Calculus
 
 `Limits`
 `Continuity`
 `Differentiation`
+`Applications of Derivatives`
 `Integration`
+`Applications of Integrals`
 `Analytical Geometry`
 `Optimization Foundations`
 
@@ -799,10 +1023,11 @@ Hardware/software system for synchronized robotic vehicle control.
 
 <td width="50%" valign="top">
 
-### 📈 Differential Equations
+## 📈 Differential Equations
 
 `First-Order ODEs`
 `Higher-Order ODEs`
+`Reduction of Order`
 `Cauchy-Euler`
 `Undetermined Coefficients`
 `Variation of Parameters`
@@ -815,6 +1040,7 @@ Hardware/software system for synchronized robotic vehicle control.
 </td>
 
 </tr>
+
 </table>
 
 <details>
@@ -825,9 +1051,9 @@ Hardware/software system for synchronized robotic vehicle control.
 `Floating-Point Computation`
 `Numerical Error`
 `Root Finding`
-`Numerical Linear Algebra`
 `Interpolation`
 `Approximation`
+`Numerical Linear Algebra`
 `Numerical Differentiation`
 `Numerical Integration`
 `Numerical Equation Solving`
@@ -837,23 +1063,15 @@ Hardware/software system for synchronized robotic vehicle control.
 
 ---
 
-# ☕ Backend & Application Engineering
-
-<div align="center">
-
-![Java](https://skillicons.dev/icons?i=java)
-![Spring](https://skillicons.dev/icons?i=spring)
-![DotNet](https://skillicons.dev/icons?i=dotnet)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-</div>
+# ☕ Backend Engineering
 
 <table>
-<tr>
-<td width="50%">
 
-### Backend
+<tr>
+
+<td width="50%" valign="top">
+
+### Java / Spring
 
 `Java`
 `Spring Boot`
@@ -861,8 +1079,6 @@ Hardware/software system for synchronized robotic vehicle control.
 `Dependency Injection`
 `Repository Pattern`
 `Service Layer`
-`REST APIs`
-`CRUD`
 `Entity Modelling`
 `Transactions`
 `Validation`
@@ -870,256 +1086,384 @@ Hardware/software system for synchronized robotic vehicle control.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Database Engineering
+### Application / Database
 
+`REST APIs`
+`CRUD`
 `SQL Server`
 `MySQL`
 `MongoDB`
 `T-SQL`
 `Database Design`
-`Normalization`
 `Stored Procedures`
 `Triggers`
-`Constraints`
-`Data Cleaning`
+`C# / .NET`
 
 </td>
+
 </tr>
+
 </table>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,mysql,mongodb" />
+
+</div>
 
 ---
 
 # 🛠️ Technology Command Center
 
-### 👨‍💻 Languages
+<table>
+
+<tr>
+<td width="33%" valign="top">
+
+### 💻 Languages
+
+**Primary**
+
+`C++`
+`C`
+`Python`
+`Java`
+`MATLAB`
+
+**Additional**
+
+`C#`
+`JavaScript`
+`SQL / T-SQL`
+`x86 Assembly`
+`HTML`
+`CSS`
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Technologies
+
+`Spring Boot`
+`.NET`
+`PyTorch`
+`TensorFlow`
+`Scikit-learn`
+`OpenCV`
+`YOLOv8`
+`OpenMP`
+`POSIX pthreads`
+`ROS`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔧 Tools
+
+`Git`
+`GitHub`
+`Docker`
+`CMake`
+`Gradle`
+`Linux`
+`Ubuntu / WSL`
+`Visual Studio`
+`VS Code`
+`MATLAB`
+`Arduino IDE`
+`Packet Tracer`
+
+</td>
+</tr>
+
+</table>
 
 <div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,html,css\&perline=8)](https://skillicons.dev)
-
-<br/>
-
-`SQL` • `T-SQL` • `x86 Assembly`
-
-</div>
-
-### ⚙️ Frameworks & Technologies
-
-<div align="center">
-
-[![Frameworks](https://skillicons.dev/icons?i=spring,dotnet,pytorch,tensorflow,sklearn,arduino,ros,docker\&perline=8)](https://skillicons.dev)
-
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb\&perline=8)](https://skillicons.dev)
-
-<br/>
-
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-
-</div>
-
-### 🔧 Developer Tools
-
-<div align="center">
-
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,cmake,gradle,linux,vscode,visualstudio\&perline=8)](https://skillicons.dev)
-
-<br/>
-
-`Ubuntu` • `WSL` • `MATLAB` • `Arduino IDE` • `Cisco Packet Tracer`
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,cs,js,html,css,spring,dotnet,pytorch,tensorflow,sklearn,opencv,mysql,mongodb,docker,git,github,linux,cmake,gradle,vscode,visualstudio&perline=12" />
 
 </div>
 
 ---
 
-# 📚 Academic Knowledge Base
+# 🎓 Academic Knowledge Explorer
 
 <details>
-<summary><b>💻 Programming & Software Courses</b></summary>
+<summary><b>💻 Programming & Software Development</b></summary>
 
 <br/>
 
 ```text
-Programming Fundamentals
-├── Programming Fundamentals Lab
+Programming
+├── Programming Fundamentals
+│   └── Programming Fundamentals Lab
+│
 ├── Object-Oriented Programming
-├── Object-Oriented Programming Lab
+│   └── OOP Lab
+│
 ├── Data Structures
-├── Data Structures Lab
+│   └── Data Structures Lab
+│
 ├── Design & Analysis of Algorithms
 ├── Software Design & Analysis
 └── Software Engineering
 ```
 
+**Knowledge developed:** programming logic, structured programming, pointers, memory, OOP, abstraction, data structures, algorithms, complexity, software architecture and engineering practices.
+
 </details>
 
 <details>
-<summary><b>🖥️ Systems Courses</b></summary>
+<summary><b>🖥️ Computer Systems</b></summary>
 
 <br/>
 
 ```text
-Computer Systems
+Systems
 ├── Digital Logic Design
-├── Digital Logic Design Lab
+│   └── DLD Lab
+│
 ├── Computer Organization & Assembly Language
-├── Computer Organization & Assembly Language Lab
+│   └── COAL Lab
+│
 ├── Operating Systems
-├── Operating Systems Lab
+│   └── OS Lab
+│
 ├── Computer Networks
-├── Computer Networks Lab
-├── Parallel & Distributed Computing
-└── Information Security [Current]
+│   └── CN Lab
+│
+└── Parallel & Distributed Computing
 ```
+
+**Knowledge developed:** digital systems, processor architecture, assembly, processes, threads, IPC, synchronization, networking, parallelism and distributed-computing fundamentals.
 
 </details>
 
 <details>
-<summary><b>🧠 AI & Robotics Courses</b></summary>
+<summary><b>🧠 Artificial Intelligence & Robotics</b></summary>
 
 <br/>
 
 ```text
 Intelligent Systems
-├── Artificial Intelligence
-├── Artificial Intelligence Lab
 ├── Robotics Technology
+├── Artificial Intelligence
+│   └── AI Lab
 ├── Embedded Control of Robotics
-├── Machine Learning for Robotics
-└── Agentic Artificial Intelligence [Current]
+└── Machine Learning for Robotics
 ```
+
+**Knowledge developed:** intelligent search, machine learning, perception, robot kinematics, embedded control, sensor integration and intelligent robotic systems.
 
 </details>
 
 <details>
-<summary><b>📊 Mathematics & Data Courses</b></summary>
+<summary><b>📊 Data, Mathematics & Scientific Computing</b></summary>
 
 <br/>
 
 ```text
 Mathematical Computing
+├── Applied Calculus
 ├── Calculus & Analytical Geometry
 ├── Linear Algebra
 ├── Differential Equations
 ├── Probability & Statistics
-├── Numerical Computing
-└── Statistical Modelling [Current]
+└── Numerical Computing
 ```
+
+**Knowledge developed:** continuous mathematics, vectors and matrices, differential systems, probability, statistics, numerical approximation and mathematical foundations of AI.
 
 </details>
 
 <details>
-<summary><b>🌱 Professional & Interdisciplinary Courses</b></summary>
+<summary><b>⚡ Electronics & Physical Computing Foundations</b></summary>
+
+<br/>
+
+```text
+Physical Computing
+├── Linear Circuits & Electrical Networks
+│   └── Lab
+├── Applied Physics
+├── Digital Logic Design
+└── Embedded Control of Robotics
+```
+
+**Knowledge developed:** circuits, electrical foundations, digital systems, physical computing and hardware/software interaction.
+
+</details>
+
+<details>
+<summary><b>📝 Communication & Professional Development</b></summary>
 
 <br/>
 
 ```text
 Professional Development
+├── English Language
 ├── Communication & Presentation Skills
+│   └── Lab
 ├── Technical & Business Writing
-├── Professional Practices in IT [Current]
-├── Digital Sustainability [Current]
-└── Final Year Project I [Current]
+└── Professional Practices in IT [Current]
 ```
+
+**Knowledge developed:** technical communication, documentation, presentations, professional writing and computing professionalism.
 
 </details>
 
 ---
 
-# 🛰️ Currently Exploring
+# 🛰️ Current Mission
 
 <table>
+
 <tr>
-<td align="center" width="25%">
 
-### 🤖
+<td width="25%" align="center">
 
-**Agentic AI**
+## 🤖
+
+### Agentic AI
 
 Agents
 Planning
 Reasoning
 Tool Use
-Workflows
+AI Workflows
+
+**CURRENT**
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### 🔐
+## 🔐
 
-**Security**
+### Information Security
 
 CIA Triad
-Cryptography
+Authentication
 Access Control
+Cryptography
 Secure Systems
+
+**CURRENT**
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### 📊
+## 📊
 
-**Statistical Modelling**
+### Statistical Modelling
 
 Regression
 Estimation
 Inference
-Model Evaluation
+Interpretation
+Evaluation
+
+**CURRENT**
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### 🌱
+## 🌱
 
-**Sustainability**
+### Digital Sustainability
 
 Green IT
 Energy Efficiency
 E-Waste
-Carbon-Aware IT
+Hardware Lifecycle
+Sustainable Computing
+
+**CURRENT**
 
 </td>
+
 </tr>
+
 </table>
+
+<details>
+<summary><b>🎓 Final Year Project I</b></summary>
+
+<br/>
+
+Currently progressing through **Final Year Project I**, applying accumulated knowledge from software engineering, AI/ML, research, data analysis and system development toward a larger computer-science project.
+
+</details>
 
 ---
 
-# 🧬 Developer DNA
+# 🧩 How My Skills Connect
+
+```text
+C / C++
+   │
+   ├──────────────► Data Structures & Algorithms
+   │                         │
+   │                         ▼
+   ├──────────────► Operating Systems
+   │                         │
+   │                         ▼
+   └──────────────► Parallel Computing
+                             │
+                             ▼
+                       SYSTEMS SOFTWARE
+
+
+Python
+   │
+   ├──────────────► Machine Learning
+   │                         │
+   │                         ▼
+   ├──────────────► Deep Learning
+   │                         │
+   │                         ▼
+   └──────────────► Computer Vision ──────► Robotics
+
+
+Java
+   │
+   └──────────────► Spring Boot
+                             │
+                             ▼
+                    Backend Engineering
+                             │
+                             ▼
+                        Databases
+
+
+MATLAB + Mathematics
+   │
+   ├──────────────► Linear Algebra
+   ├──────────────► Numerical Computing
+   ├──────────────► Robotics
+   └──────────────► Mathematical Modelling
+```
+
+---
+
+# 🔬 Engineering Interests
 
 <div align="center">
 
-```text
-                    ┌──────────────────────────┐
-                    │    INTELLIGENT SYSTEMS   │
-                    └────────────┬─────────────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             │                   │                   │
-             ▼                   ▼                   ▼
-      ┌────────────┐      ┌────────────┐      ┌────────────┐
-      │ AI / DATA  │      │ SOFTWARE   │      │  ROBOTICS  │
-      └──────┬─────┘      └──────┬─────┘      └──────┬─────┘
-             │                   │                   │
-      ML • DL • CV          Backend • DSA        ESP32 • ROS
-      NLP • Stats           OS • Database        Sensors • CV
-             │                   │                   │
-             └───────────────────┼───────────────────┘
-                                 │
-                                 ▼
-                       ┌──────────────────┐
-                       │ REAL-WORLD SYSTEM │
-                       └──────────────────┘
-```
+|     🧠 Intelligence     |      💻 Software      | 🤖 Physical Computing |    📊 Computing Science    |
+| :---------------------: | :-------------------: | :-------------------: | :------------------------: |
+| Artificial Intelligence |  Backend Engineering  |        Robotics       |         Algorithms         |
+|     Machine Learning    | Software Architecture |    Embedded Systems   |     Parallel Computing     |
+|      Deep Learning      |  Systems Programming  |   Autonomous Systems  |     Numerical Computing    |
+|     Computer Vision     |       Databases       |     Sensor Systems    |    Statistical Computing   |
+|           NLP           |  Distributed Systems  |    Robot Perception   |   Mathematical Computing   |
+|        Agentic AI       |    Software Design    |  Intelligent Control  | High-Performance Computing |
 
 </div>
 
@@ -1129,129 +1473,100 @@ Carbon-Aware IT
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=rohaan2802&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rohaan2802&theme=tokyonight&hide_border=true&layout=compact"/>
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=rohaan2802&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<br/>
+<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rohaan2802&theme=tokyonight&hide_border=true&layout=compact&langs_count=10"/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=rohaan2802&theme=tokyonight&hide_border=true"/>
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com/?user=rohaan2802&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 Achievement Board
+# 🐍 Contribution Animation
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohaan2802&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"/>
+<img src="https://raw.githubusercontent.com/rohaan2802/rohaan2802/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
 </div>
 
----
-
-# 📈 Contribution Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohaan2802&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
+> Contribution animation appears after the corresponding GitHub Actions workflow generates the SVG.
 
 ---
 
-# 🐍 Contribution Activity
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/rohaan2802/rohaan2802/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> The contribution snake requires a small GitHub Actions workflow in the profile repository to generate the SVG.
-
----
-
-# 🗺️ What I'm Building Toward
+# 🎯 Development Roadmap
 
 ```mermaid
 flowchart LR
-    A[Computer Science] --> B[Software Engineering]
-    A --> C[Artificial Intelligence]
-    A --> D[Mathematical Computing]
 
-    C --> E[Machine Learning]
-    E --> F[Deep Learning]
-    F --> G[Computer Vision]
+CS["💻 Computer Science"]
 
-    B --> H[Backend Systems]
-    B --> I[Parallel & Distributed Systems]
+CS --> AI["🧠 AI"]
+CS --> SE["⚙️ Software"]
+CS --> MATH["📐 Mathematics"]
+CS --> ROB["🤖 Robotics"]
 
-    D --> J[Statistics]
-    D --> K[Linear Algebra]
+AI --> ML["Machine Learning"]
+ML --> DL["Deep Learning"]
+DL --> CV["Computer Vision"]
 
-    G --> L[Intelligent Robotics]
-    H --> L
-    I --> L
-    J --> L
-    K --> L
+SE --> SYS["Systems"]
+SE --> BACK["Backend"]
+SE --> PAR["Parallel Computing"]
 
-    L --> M[Real-World Intelligent Systems]
+MATH --> LA["Linear Algebra"]
+MATH --> STAT["Statistics"]
+MATH --> NUM["Numerical Computing"]
+
+ROB --> EMB["Embedded"]
+ROB --> CTRL["Control"]
+ROB --> AUTO["Autonomy"]
+
+CV --> INTEL["🚀 Intelligent Systems"]
+BACK --> INTEL
+PAR --> INTEL
+STAT --> INTEL
+EMB --> INTEL
+AUTO --> INTEL
 ```
 
 ---
 
-# 🤝 Collaboration Console
+# 🤝 Collaboration Terminal
 
-<table>
-<tr>
-<td width="50%">
-
-### 💡 Interested In
-
-* AI / ML
-* Computer Vision
-* Robotics
-* Autonomous Systems
-* Data Science
-* Backend Engineering
-* Parallel Computing
-* Embedded Systems
-
-</td>
-
-<td width="50%">
-
-### 🤝 Open To
-
-* Open-source projects
-* Research projects
-* AI/ML projects
-* Robotics projects
-* Backend systems
-* Computer vision systems
-* Engineering collaborations
-* Technical learning
-
-</td>
-</tr>
-</table>
+```text
+┌─ OPEN TO COLLABORATION ───────────────────────────────────────┐
+│                                                               │
+│  🧠 Artificial Intelligence     🤖 Robotics                   │
+│  👁 Computer Vision             ⚙️ Backend Systems            │
+│  📊 Machine Learning            🔌 Embedded Systems           │
+│  🧬 Deep Learning               ⚡ Parallel Computing          │
+│  📐 Data / Scientific Computing 💻 Software Engineering       │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 <div align="center">
 
-# 🌐 Let's Connect
+## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Rohaan-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/m-rohaan-944a82320/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rohaan2802.github.io-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://rohaan2802.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-rohaan2802-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rohaan2802)
-[![Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:m.rohaanarshad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Mohammad_Rohaan-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/m-rohaan-944a82320/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore_My_Work-111111?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://rohaan2802.github.io/)
+[![GitHub](https://img.shields.io/badge/GITHUB-rohaan2802-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rohaan2802)
 
 <br/><br/>
 
-### 💻 Code. 🧠 Learn. 🤖 Build. 🚀 Improve.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Code.+Learn.+Build.+Repeat.;Turning+Ideas+Into+Working+Systems.;Always+Exploring+What+Comes+Next."/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%"/>
+<br/>
+
+### `C++` • `C` • `Python` • `Java` • `MATLAB` • `AI` • `Robotics`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 
 </div>
