@@ -67,16 +67,16 @@
 │  > FAST-NUCES Islamabad                                                  │
 │                                                                          │
 │  $ primary-languages                                                     │
-│  > C++  •  C  •  Python  •  Java  •  MATLAB                             │
+│  > C++  •  C  •  Python  •  Java  •  MATLAB                              │
 │                                                                          │
 │  $ engineering-focus                                                     │
 │  > AI / ML  •  Computer Vision  •  Robotics  •  Software Engineering     │
 │                                                                          │
 │  $ systems                                                               │
-│  > Algorithms  •  OS  •  Databases  •  Networks  •  Parallel Computing  │
+│  > Algorithms  •  OS  •  Databases  •  Networks  •  Parallel Computing   │
 │                                                                          │
 │  $ current-mission                                                       │
-│  > Agentic AI  •  Security  •  Statistics  •  FYP                       │
+│  > Agentic AI  •  Security  •  Statistics  •  FYP                        │
 │                                                                          │
 │  $ status                                                                │
 │  > Building. Learning. Experimenting. █                                  │
