@@ -1485,13 +1485,27 @@ MATLAB + Mathematics
 
 ---
 
-# 🐍 Contribution Animation
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rohaan2802/rohaan2802/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rohaan2802/rohaan2802/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rohaan2802/rohaan2802/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Mohammad Rohaan GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/rohaan2802/rohaan2802/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
+
 
 > Contribution animation appears after the corresponding GitHub Actions workflow generates the SVG.
 
@@ -1538,13 +1552,13 @@ AUTO --> INTEL
 # 🤝 Collaboration Terminal
 
 ```text
-┌─ OPEN TO COLLABORATION ───────────────────────────────────────┐
+┌──────────────────── OPEN TO COLLABORATION ────────────────────┐
 │                                                               │
-│  🧠 Artificial Intelligence     🤖 Robotics                  │
-│  👁 Computer Vision             ⚙️ Backend Systems           │
-│  📊 Machine Learning            🔌 Embedded Systems          │                                                               │
-│  🧬 Deep Learning               ⚡ Parallel Computing        │
-│  📐 Data / Scientific Computing 💻 Software Engineering      │
+│  AI / Machine Learning        Robotics & Autonomous Systems   │
+│  Computer Vision              Backend Engineering             │
+│  Deep Learning                Embedded Systems                │
+│  Data / Scientific Computing Parallel & Distributed Systems   │
+│  Software Engineering        Intelligent Systems              │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
 ```
