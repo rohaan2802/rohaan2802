@@ -881,8 +881,6 @@ Parallel and distributed computing is also a formal part of modern computing cur
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/m-rohaan-944a82320/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://rohaan2802.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rohaan2802)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:m.rohaanarshad@gmail.com)
-
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rohaan2802\&style=for-the-badge)
