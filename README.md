@@ -1485,26 +1485,24 @@ MATLAB + Mathematics
 
 ---
 
-# 🐍 Contribution Activity
+<h2 align="center">🐍 Contribution Activity</h2>
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/rohaan2802/rohaan2802/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/rohaan2802/rohaan2802/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Mohammad Rohaan GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/rohaan2802/rohaan2802/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rohaan2802/rohaan2802/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/rohaan2802/rohaan2802/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/rohaan2802/rohaan2802/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 
 > Contribution animation appears after the corresponding GitHub Actions workflow generates the SVG.
