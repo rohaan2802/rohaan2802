@@ -1,110 +1,336 @@
-# 🚀 Featured Projects
+<!-- ========================= HERO ========================= -->
 
-Rather than focusing on isolated technologies, I enjoy building projects that combine multiple areas of computer science — from algorithms and backend systems to AI, robotics, databases, concurrency, and embedded computing.
+<div align="center">
 
-### 🏸 ShuttleBot — Intelligent Badminton Service Robot
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Mohammad%20Rohaan&fontAlign=50&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Robotics%20%7C%20Software%20Engineering&descAlign=50&descAlignY=58&animation=fadeIn&fontSize=48" width="100%"/>
 
-**AI • Computer Vision • YOLOv8 • Python • Robotics**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=900&center=true&vCenter=true&width=900&height=60&lines=Artificial+Intelligence+%26+Machine+Learning+%F0%9F%A7%A0;Computer+Vision+%26+Deep+Learning+%F0%9F%91%81%EF%B8%8F;Robotics+%26+Embedded+Systems+%F0%9F%A4%96;Backend+%26+Software+Engineering+%E2%9A%99%EF%B8%8F;Parallel+%26+Distributed+Computing+%F0%9F%9A%80;Turning+Algorithms+Into+Real+Systems+%F0%9F%92%A1" />
 
-Computer-vision-based shuttlecock detection system designed as part of an autonomous badminton service robot.
+<br/>
 
-**Engineering Areas**
+### `Software` × `Intelligence` × `Data` × `Mathematics` × `Hardware`
 
-`Object Detection` • `Computer Vision` • `YOLOv8` • `Model Training` • `Dataset Preparation` • `Image Annotation` • `Inference` • `Real-Time Detection` • `Robotics Integration` • `Python`
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Explore-000000?style=for-the-badge)](https://rohaan2802.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/m-rohaan-944a82320/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/rohaan2802)
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:m.rohaanarshad@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rohaan2802\&style=for-the-badge\&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/rohaan2802?style=for-the-badge\&logo=github\&label=FOLLOWERS)
+
+</div>
 
 ---
+
+<!-- ========================= NAVIGATION ========================= -->
+
+<div align="center">
+
+## 🧭 Developer Dashboard
+
+**[🧠 AI & ML](#-artificial-intelligence--machine-learning)**
+  •  
+**[🤖 Robotics](#-robotics--embedded-systems)**
+  •  
+**[💻 CS](#-computer-science-core)**
+  •  
+**[📐 Mathematics](#-mathematical-foundations)**
+  •  
+**[🚀 Projects](#-featured-engineering-projects)**
+  •  
+**[📊 Analytics](#-github-dashboard)**
+
+</div>
+
+---
+
+# 👨‍💻 Developer Profile
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Primary Focus
+
+```yaml
+name: Mohammad Rohaan
+field: Computer Science
+
+focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - Robotics
+  - Software Engineering
+
+interests:
+  - Intelligent Systems
+  - Autonomous Systems
+  - Backend Engineering
+  - Embedded Computing
+  - Parallel Computing
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Current Environment
+
+```yaml
+education:
+  BS Computer Science
+  FAST-NUCES Islamabad
+
+currently_exploring:
+  - Agentic AI
+  - Information Security
+  - Statistical Modelling
+  - Digital Sustainability
+
+building:
+  - AI Systems
+  - Robotics
+  - Backend Applications
+  - Computer Vision Systems
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💫 About Me
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🧠 AI
+
+Machine Learning
+Deep Learning
+Computer Vision
+NLP
+Neural Networks
+Agentic AI
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Engineering
+
+Software Engineering
+Backend Systems
+Databases
+Distributed Computing
+Operating Systems
+Algorithms
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 Robotics
+
+Embedded Systems
+ESP32
+Arduino
+Sensors
+Robot Control
+ML for Robotics
+
+</td>
+</tr>
+</table>
+
+I am a **Computer Science student at FAST-NUCES Islamabad** interested in designing systems at the intersection of **AI, software engineering, mathematical computing, and robotics**.
+
+My work ranges from training computer-vision models and developing backend systems to implementing data structures, concurrent programs, databases, and embedded robotic systems.
+
+> ### 💡 Engineering Goal
+>
+> Build systems where **algorithms become software, software becomes intelligence, and intelligence interacts with the real world.**
+
+---
+
+# 🚀 Featured Engineering Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏸 ShuttleBot
+
+**AI-Powered Badminton Service Robot**
+
+`YOLOv8` `Python` `Computer Vision` `Robotics`
+
+Real-time shuttlecock detection system developed for autonomous badminton robotics.
+
+**Core Engineering**
+
+* Object Detection
+* Dataset Preparation
+* Model Training
+* Real-Time Inference
+* Computer Vision
+* Robotics Integration
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📚 Library Management System
 
-**Java • Spring Boot • SQL • Thymeleaf**
+**Full-Stack Library Platform**
 
-Full-stack library management system designed around structured backend architecture and relational data management.
+`Java` `Spring Boot` `SQL` `Thymeleaf`
 
-**Engineering Areas**
+Backend-driven library system implementing structured application architecture and database workflows.
 
-`Java` • `Spring Boot` • `MVC` • `Service Layer` • `Repository Pattern` • `Dependency Injection` • `Relational Databases` • `SQL` • `Transactions` • `Business Logic` • `Reporting`
+**Core Engineering**
 
----
+* MVC
+* Dependency Injection
+* Repository Pattern
+* Service Layer
+* Transactions
+* Reporting
 
-### ✈️ TravelEase — Travel Management Platform
+</td>
 
-**C# • .NET • SQL Server**
+</tr>
 
-Database-driven travel management application supporting trips, bookings, payments, locations, service providers, reporting, and analytics.
+<tr>
 
-**Engineering Areas**
+<td width="50%" valign="top">
 
-`C#` • `.NET` • `SQL Server` • `Database Design` • `ERD / EERD` • `Normalization` • `Relationships` • `Constraints` • `Stored Procedures` • `Application Architecture`
+### ✈️ TravelEase
 
----
+**Travel Management Platform**
 
-### 🌳 Git Lite — Lightweight Version Control System
+`C#` `.NET` `SQL Server`
 
-**C++ • DSA • Trees • Graphs • Hashing**
+Database-oriented travel management application supporting bookings, payments, trips and analytics.
 
-Console-based version-control system inspired by fundamental Git concepts.
+**Core Engineering**
 
-**Engineering Areas**
+* ERD / EERD
+* Relational Modelling
+* Database Constraints
+* Backend Logic
+* Reporting
+* Application Architecture
 
-`C++` • `Data Structures` • `Trees` • `Graphs` • `Hashing` • `Commit History` • `Diff` • `Merge` • `File Processing` • `Algorithm Design` • `Unit Testing`
+</td>
 
----
+<td width="50%" valign="top">
 
-### ✈️ Concurrent Airline Management System
+### 🌳 Git Lite
 
-**C • POSIX Threads • Synchronization**
+**Mini Version-Control System**
 
-Concurrent airline booking simulation designed around operating-system synchronization and shared-resource management.
+`C++` `DSA` `Trees` `Graphs` `Hashing`
 
-**Engineering Areas**
+Version-control system implementing fundamental repository and commit-management concepts.
 
-`C` • `POSIX Threads` • `Concurrency` • `Mutexes` • `Semaphores` • `Critical Sections` • `Race Conditions` • `Synchronization` • `Shared Resources`
+**Core Engineering**
 
----
+* Trees
+* Graphs
+* Hashing
+* Commit History
+* Diff / Merge
+* File Processing
 
-### 🤖 Synchronized Multi-Robot System
+</td>
 
-**ESP32 • Arduino • Python • Sensors**
+</tr>
 
-Embedded robotics project involving coordinated robotic vehicles and sensor-assisted control.
+<tr>
 
-**Engineering Areas**
+<td width="50%" valign="top">
 
-`ESP32` • `Arduino` • `Embedded Programming` • `Sensor Integration` • `Robot Control` • `Synchronization` • `Ultrasonic Sensors` • `IMU / Gyroscope` • `Hardware–Software Integration`
+### ✈️ Concurrent Airline System
 
----
+**Concurrent Booking Simulation**
 
-### ♟️ Additional Software Projects
+`C` `pthreads` `Mutexes` `Semaphores`
 
-My project work also includes applications involving:
+Operating-systems project focused on synchronization and concurrent resource access.
 
-`Chess`
-`Space Shooter`
-`Plagiarism Detection`
-`Console Notepad`
-`Shopping Portal`
-`Responsive Web Interfaces`
-`Database Applications`
-`Concurrent Systems`
-`Numerical / ML Experiments`
+**Core Engineering**
+
+* Threads
+* Race Conditions
+* Critical Sections
+* Mutexes
+* Semaphores
+* Synchronization
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Multi-Robot System
+
+**Synchronized Robotic Cars**
+
+`ESP32` `Arduino` `Python` `Sensors`
+
+Hardware/software system for synchronized robotic vehicle control.
+
+**Core Engineering**
+
+* Embedded Programming
+* Sensor Integration
+* Robot Coordination
+* Ultrasonic Sensors
+* IMU / Gyroscope
+* Hardware Integration
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🧠 Artificial Intelligence & Machine Learning
 
-## Artificial Intelligence
+<div align="center">
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge)
+![ML](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![DL](https://img.shields.io/badge/Deep_Learning-111111?style=for-the-badge)
+![CV](https://img.shields.io/badge/Computer_Vision-102230?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-111111?style=for-the-badge)
+![NN](https://img.shields.io/badge/Neural_Networks-102230?style=for-the-badge)
+
+</div>
+
+<details open>
+<summary><b>🧠 Artificial Intelligence</b></summary>
+
+<br/>
 
 `Intelligent Agents`
-`State-Space Representation`
 `Problem Solving`
-`Uninformed Search`
-`Breadth-First Search`
-`Depth-First Search`
+`State-Space Search`
+`BFS`
+`DFS`
 `Uniform-Cost Search`
-`Informed Search`
 `Heuristic Search`
 `Greedy Best-First Search`
-`A* Search`
+`A*`
 `Adversarial Search`
 `Minimax`
 `Alpha-Beta Pruning`
@@ -112,7 +338,12 @@ My project work also includes applications involving:
 `Knowledge Representation`
 `Reasoning`
 
-## Machine Learning
+</details>
+
+<details>
+<summary><b>📈 Machine Learning</b></summary>
+
+<br/>
 
 `Supervised Learning`
 `Unsupervised Learning`
@@ -120,34 +351,42 @@ My project work also includes applications involving:
 `Classification`
 `Clustering`
 `Feature Engineering`
-`Feature Selection`
 `Data Preprocessing`
-`Train / Validation / Test Splits`
+`Feature Selection`
 `Cross Validation`
-`Overfitting`
-`Underfitting`
-`Bias–Variance Tradeoff`
 `Regularization`
+`Bias–Variance Tradeoff`
 `Hyperparameter Tuning`
 `Model Evaluation`
+`Training / Validation / Testing`
 
-## Deep Learning & Neural Networks
+</details>
 
-`Artificial Neural Networks`
+<details>
+<summary><b>🧬 Neural Networks & Deep Learning</b></summary>
+
+<br/>
+
 `Perceptrons`
+`Artificial Neural Networks`
 `Multilayer Networks`
 `Activation Functions`
 `Forward Propagation`
 `Backpropagation`
-`Gradient-Based Optimization`
 `Loss Functions`
-`CNNs`
+`Gradient-Based Optimization`
+`CNN`
 `Feature Extraction`
 `Transfer Learning`
 
-## Computer Vision
+</details>
 
-`Image Processing Fundamentals`
+<details>
+<summary><b>👁️ Computer Vision</b></summary>
+
+<br/>
+
+`Image Processing`
 `Image Classification`
 `Object Detection`
 `Bounding Boxes`
@@ -157,9 +396,14 @@ My project work also includes applications involving:
 `Training Pipelines`
 `Inference Pipelines`
 `Real-Time Detection`
-`Computer Vision for Robotics`
+`Vision for Robotics`
 
-## Natural Language Processing
+</details>
+
+<details>
+<summary><b>💬 Natural Language Processing</b></summary>
+
+<br/>
 
 `Text Preprocessing`
 `Tokenization`
@@ -169,66 +413,90 @@ My project work also includes applications involving:
 `NLP Pipelines`
 `Language-Based ML Systems`
 
-## AI/ML Ecosystem
+</details>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge\&logo=scipy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=plotly\&logoColor=black)
+### 🧰 AI / Data Toolkit
 
-`YOLOv8` • `NLP` • `Computer Vision` • `Neural Networks`
+<div align="center">
 
----
+![Python](https://skillicons.dev/icons?i=python)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![Scikit Learn](https://skillicons.dev/icons?i=sklearn)
 
-# 💻 Programming & Problem Solving
+<br/>
 
-## Programming Fundamentals
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
 
-`Variables & Data Types`
-`Control Structures`
-`Functions`
-`Arrays`
-`Pointers`
-`Dynamic Memory`
-`File Handling`
-`Recursion`
-`Modular Programming`
-`Problem Decomposition`
-
-## Object-Oriented Programming
-
-`Classes & Objects`
-`Encapsulation`
-`Abstraction`
-`Inheritance`
-`Polymorphism`
-`Function Overloading`
-`Operator Overloading`
-`Virtual Functions`
-`Composition`
-`Aggregation`
-`Exception Handling`
-
-## Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-
-`SQL` • `T-SQL` • `x86 Assembly`
+</div>
 
 ---
 
-# 🌳 Data Structures & Algorithms
+# 🤖 Robotics & Embedded Systems
 
-## Data Structures
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Robotics
+
+`Forward Kinematics`
+`Inverse Kinematics`
+`Homogeneous Transformations`
+`Coordinate Frames`
+`Robot Motion`
+`Robot Control`
+`Autonomous Systems`
+`Multi-Robot Coordination`
+`Sensor-Based Robotics`
+`ML for Robotics`
+`Computer Vision for Robotics`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔌 Embedded Systems
+
+`Microcontrollers`
+`Embedded Programming`
+`GPIO`
+`Sensor Integration`
+`Ultrasonic Sensors`
+`IMU / Gyroscope`
+`Actuators`
+`Serial Communication`
+`Hardware–Software Integration`
+`Real-Time Control Concepts`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge\&logo=espressif\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+
+</div>
+
+---
+
+# 💻 Computer Science Core
+
+<details>
+<summary><b>🌳 Data Structures & Algorithms</b></summary>
+
+<br/>
+
+### Data Structures
 
 `Arrays`
 `Linked Lists`
@@ -237,14 +505,14 @@ My project work also includes applications involving:
 `Priority Queues`
 `Trees`
 `Binary Trees`
-`Binary Search Trees`
+`BST`
 `Heaps`
 `Hash Tables`
 `Graphs`
 `Adjacency Lists`
 `Adjacency Matrices`
 
-## Algorithms
+### Algorithms
 
 `Searching`
 `Sorting`
@@ -252,17 +520,15 @@ My project work also includes applications involving:
 `Divide & Conquer`
 `Greedy Algorithms`
 `Dynamic Programming`
-`Graph Traversal`
 `BFS`
 `DFS`
-`Shortest-Path Concepts`
-`Minimum-Spanning-Tree Concepts`
+`Shortest Paths`
+`Minimum Spanning Trees`
 
-## Algorithm Analysis
+### Analysis
 
 `Time Complexity`
 `Space Complexity`
-`Asymptotic Analysis`
 `Big-O`
 `Big-Ω`
 `Big-Θ`
@@ -270,32 +536,32 @@ My project work also includes applications involving:
 `Algorithm Correctness`
 `Performance Analysis`
 
----
+</details>
 
-# 🖥️ Operating Systems & Systems Programming
+<details>
+<summary><b>🖥️ Operating Systems & Systems Programming</b></summary>
 
-## Operating Systems
+<br/>
 
 `Processes`
-`Process Creation`
 `Threads`
 `Multithreading`
 `CPU Scheduling`
-`Process Synchronization`
+`Synchronization`
 `Critical Sections`
 `Race Conditions`
 `Mutexes`
 `Semaphores`
 `Deadlocks`
-`Inter-Process Communication`
+`IPC`
 `Pipes`
 `Named Pipes`
 `Signals`
 `Memory Management`
 `Virtual Memory`
-`File-System Concepts`
+`File Systems`
 
-## POSIX / Linux Programming
+### Linux / POSIX
 
 `fork()`
 `exec()`
@@ -303,28 +569,26 @@ My project work also includes applications involving:
 `pipe()`
 `dup()`
 `dup2()`
-`Signals`
 `pthreads`
 `POSIX Semaphores`
 
----
+</details>
 
-# ⚡ Parallel & Distributed Computing
+<details>
+<summary><b>⚡ Parallel & Distributed Computing</b></summary>
 
-`Parallel Computing Fundamentals`
-`Distributed Computing Fundamentals`
+<br/>
+
+`Parallel Computing`
+`Distributed Computing`
 `Concurrency`
 `Shared-Memory Programming`
-`Multithreading`
-`Synchronization`
 `Data Parallelism`
 `Task Parallelism`
 `Parallel Decomposition`
+`Synchronization`
 `Race Conditions`
 `Critical Sections`
-`Locks`
-`Mutexes`
-`Semaphores`
 `OpenMP`
 `Parallel Loops`
 `Work Sharing`
@@ -333,34 +597,30 @@ My project work also includes applications involving:
 `Speedup`
 `Scalability`
 `Load Balancing`
-`Performance Measurement`
+`Performance Analysis`
 
-Parallel and distributed computing is also a formal part of modern computing curricula; contemporary course descriptions emphasize scalable applications, parallel fundamentals, distributed fundamentals and related architectures.
+</details>
 
----
+<details>
+<summary><b>🗄️ Database Systems</b></summary>
 
-# 🗄️ Database Systems
-
-## Relational Databases
+<br/>
 
 `Relational Model`
-`Entities & Relationships`
 `ERD`
 `EERD`
 `Primary Keys`
 `Foreign Keys`
-`Constraints`
-`Normalization`
 `Functional Dependencies`
+`Normalization`
 `Transactions`
-`ACID Properties`
-`Concurrency Concepts`
+`ACID`
+`Concurrency`
 
-## SQL
+### SQL
 
 `DDL`
 `DML`
-`SELECT Queries`
 `JOINs`
 `Subqueries`
 `Aggregate Functions`
@@ -372,135 +632,66 @@ Parallel and distributed computing is also a formal part of modern computing cur
 `Transactions`
 `Data Cleaning`
 
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+</details>
 
----
+<details>
+<summary><b>🌐 Computer Networks</b></summary>
 
-# 🌐 Computer Networks
+<br/>
 
 `OSI Model`
-`TCP/IP Model`
+`TCP/IP`
 `Application Layer`
 `Transport Layer`
 `Network Layer`
 `Data-Link Layer`
 `IP Addressing`
 `Subnetting`
-`Routing Fundamentals`
-`Switching Fundamentals`
+`Routing`
+`Switching`
 `TCP`
 `UDP`
 `DNS`
 `DHCP`
 `HTTP / HTTPS`
-`Sockets Fundamentals`
-`Network Configuration`
+`Sockets`
 `Packet Analysis`
 
-**Tools:** `Cisco Packet Tracer`
+</details>
 
----
+<details>
+<summary><b>🏗️ Software Engineering & Design</b></summary>
 
-# 🏗️ Software Engineering & Software Design
+<br/>
 
-## Software Engineering
-
-`Software Development Life Cycle`
+`SDLC`
 `Requirements Engineering`
 `Functional Requirements`
 `Non-Functional Requirements`
 `Use Cases`
 `Software Modelling`
 `Software Architecture`
-`Implementation`
 `Testing`
 `Maintenance`
-`Version Control`
-`Agile Concepts`
-
-## Software Design
-
+`Agile`
 `Object-Oriented Design`
 `Modularity`
 `Abstraction`
 `Separation of Concerns`
 `Coupling`
 `Cohesion`
-`SOLID Principles`
+`SOLID`
 `Layered Architecture`
 `MVC`
 `Design Patterns`
 `UML`
 
----
+</details>
 
-# ☕ Backend Engineering
+<details>
+<summary><b>🔌 Digital Logic & Computer Architecture</b></summary>
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge\&logo=thymeleaf\&logoColor=white)
-
-`Java`
-`Spring Boot`
-`Spring MVC`
-`Dependency Injection`
-`Repository Pattern`
-`Service Layer`
-`REST APIs`
-`CRUD Operations`
-`Entity Modelling`
-`Transaction Management`
-`Validation`
-`Exception Handling`
-`C# / .NET`
-`SQL Integration`
-
----
-
-# 🤖 Robotics & Embedded Systems
-
-## Robotics
-
-`Robot Coordinate Systems`
-`Forward Kinematics`
-`Inverse Kinematics`
-`Homogeneous Transformations`
-`Robot Motion`
-`Robot Control`
-`Autonomous Systems`
-`Multi-Robot Coordination`
-`Sensor-Based Robotics`
-`Computer Vision for Robotics`
-`Machine Learning for Robotics`
-
-## Embedded Systems
-
-`Microcontrollers`
-`Embedded Programming`
-`GPIO`
-`Sensors`
-`Actuators`
-`Ultrasonic Sensors`
-`IMU / Gyroscope`
-`Hardware–Software Integration`
-`Serial Communication`
-`Real-Time Control Concepts`
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge\&logo=espressif\&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
-
-`MATLAB` • `Arduino IDE` • `Python`
-
----
-
-# 🔌 Digital Logic & Computer Organization
-
-## Digital Logic
+<br/>
 
 `Binary Number Systems`
 `Boolean Algebra`
@@ -510,24 +701,19 @@ Parallel and distributed computing is also a formal part of modern computing cur
 `Flip-Flops`
 `Registers`
 `Counters`
-`Digital Circuit Design`
-
-## Computer Organization & Assembly
-
-`Computer Architecture Fundamentals`
 `CPU Organization`
-`Registers`
-`Instruction Execution`
 `Memory Organization`
+`Instruction Execution`
 `Addressing Modes`
 `Machine Instructions`
-`Assembly Language`
 `x86 Assembly`
-`Low-Level Programming`
 
----
+</details>
 
-# 🔢 Discrete Structures
+<details>
+<summary><b>🔢 Discrete Structures</b></summary>
+
+<br/>
 
 `Propositional Logic`
 `Predicate Logic`
@@ -542,349 +728,530 @@ Parallel and distributed computing is also a formal part of modern computing cur
 `Trees`
 `Discrete Probability`
 
+</details>
+
 ---
 
-# 📐 Mathematical Foundations for Computing & AI
+# 📐 Mathematical Foundations
 
-## Linear Algebra
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Linear Algebra
 
 `Vectors`
 `Matrices`
-`Matrix Operations`
-`Systems of Linear Equations`
-`Row Reduction`
+`Systems of Equations`
+`RREF`
 `Rank`
 `Vector Spaces`
-`Subspaces`
-`Linear Independence`
-`Basis`
-`Dimension`
+`Basis & Dimension`
 `Linear Transformations`
 `Eigenvalues`
 `Eigenvectors`
 `Diagonalization`
 `Orthogonality`
-`Gram–Schmidt Process`
+`Gram-Schmidt`
 `Projections`
-`Norms`
 `Quadratic Forms`
-`Singular Value Decomposition (SVD)`
-`Principal Component Analysis (PCA)`
+`SVD`
+`PCA`
 
-## Probability & Statistics
+</td>
+
+<td width="50%" valign="top">
+
+### 🎲 Probability & Statistics
 
 `Probability Rules`
 `Conditional Probability`
 `Bayes' Theorem`
 `Random Variables`
-`Discrete Distributions`
-`Continuous Distributions`
+`Distributions`
 `Expectation`
 `Variance`
-`Descriptive Statistics`
 `Sampling`
 `Correlation`
 `Regression Foundations`
-`Statistical Inference Concepts`
+`Statistical Inference`
+`Statistical Modelling`
 
-## Calculus
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ∫ Calculus
 
 `Limits`
 `Continuity`
 `Differentiation`
-`Applications of Derivatives`
 `Integration`
-`Applications of Integrals`
 `Analytical Geometry`
 `Optimization Foundations`
 
-## Differential Equations
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 Differential Equations
 
 `First-Order ODEs`
 `Higher-Order ODEs`
-`Cauchy–Euler Equations`
+`Cauchy-Euler`
 `Undetermined Coefficients`
 `Variation of Parameters`
 `Laplace Transforms`
-`Power-Series Solutions`
+`Power Series`
 `Heat Equation`
 `Wave Equation`
 `PDE Foundations`
 
----
+</td>
 
-# 🔢 Numerical Computing
+</tr>
+</table>
+
+<details>
+<summary><b>🔢 Numerical Computing</b></summary>
+
+<br/>
 
 `Floating-Point Computation`
 `Numerical Error`
-`Root-Finding`
+`Root Finding`
 `Numerical Linear Algebra`
 `Interpolation`
 `Approximation`
 `Numerical Differentiation`
 `Numerical Integration`
-`Numerical Solutions of Equations`
+`Numerical Equation Solving`
 `Computational Problem Solving`
 
----
-
-# 🔐 Information Security — Currently Exploring
-
-`Security Principles`
-`Confidentiality`
-`Integrity`
-`Availability`
-`Authentication`
-`Authorization`
-`Access Control`
-`Cryptography Fundamentals`
-`Network Security Concepts`
-`Secure Software Concepts`
-
----
-
-# 🤖 Agentic AI — Currently Exploring
-
-`Intelligent Agents`
-`Autonomous Decision Making`
-`Goal-Oriented Agents`
-`Tool-Using AI Systems`
-`Agent Workflows`
-`Planning`
-`Reasoning`
-`Multi-Step AI Systems`
-`Human–AI Interaction`
-
----
-
-# 📊 Statistical Modelling — Currently Exploring
-
-`Statistical Models`
-`Regression Modelling`
-`Parameter Estimation`
-`Model Interpretation`
-`Model Evaluation`
-`Statistical Relationships`
-`Data-Driven Modelling`
-
----
-
-# 🌱 Digital Sustainability — Currently Exploring
-
-`Green Computing`
-`Energy-Efficient Computing`
-`Sustainable IT`
-`Hardware Lifecycle`
-`Energy Consumption`
-`Electronic Waste`
-`Carbon-Aware Computing`
-`Sustainable Technology Decisions`
-
----
-
-# 🧪 Software & Technical Practices
-
-`Git Version Control`
-`GitHub`
-`Debugging`
-`Unit Testing Concepts`
-`Code Documentation`
-`Technical Documentation`
-`Technical Writing`
-`Requirements Documentation`
-`Problem Analysis`
-`Code Organization`
-`Modular Development`
-
----
-
-# 🛠️ Tools & Development Environment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge\&logo=cmake\&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge\&logo=gradle\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
-`Windows` • `Ubuntu` • `WSL` • `MATLAB` • `Arduino IDE` • `Cisco Packet Tracer` • `GitHub Pages`
-
----
-
-# 🎓 Computer Science Coursework
-
-<details>
-<summary><b>💻 Programming & Software</b></summary>
-<br/>
-
-* Programming Fundamentals
-* Object-Oriented Programming
-* Data Structures
-* Design and Analysis of Algorithms
-* Software Design and Analysis
-* Software Engineering
-
-</details>
-
-<details>
-<summary><b>🖥️ Systems & Computing</b></summary>
-<br/>
-
-* Digital Logic Design
-* Computer Organization & Assembly Language
-* Operating Systems
-* Computer Networks
-* Parallel & Distributed Computing
-* Information Security *(Current)*
-
-</details>
-
-<details>
-<summary><b>🧠 Artificial Intelligence & Robotics</b></summary>
-<br/>
-
-* Artificial Intelligence
-* Artificial Intelligence Lab
-* Robotics Technology
-* Embedded Control of Robotics
-* Machine Learning for Robotics
-* Agentic Artificial Intelligence *(Current)*
-
-</details>
-
-<details>
-<summary><b>🗄️ Data & Computing</b></summary>
-<br/>
-
-* Database Systems
-* Database Systems Lab
-* Numerical Computing
-* Probability & Statistics
-* Statistical Modelling *(Current)*
-
-</details>
-
-<details>
-<summary><b>📐 Mathematical Foundations</b></summary>
-<br/>
-
-* Applied Calculus
-* Calculus & Analytical Geometry
-* Linear Algebra
-* Differential Equations
-* Probability & Statistics
-* Numerical Computing
-* Statistical Modelling *(Current)*
-
-</details>
-
-<details>
-<summary><b>🤖 Robotics & Embedded Computing</b></summary>
-<br/>
-
-* Robotics Technology
-* Embedded Control of Robotics
-* Machine Learning for Robotics
-
-</details>
-
-<details>
-<summary><b>📝 Professional & Interdisciplinary</b></summary>
-<br/>
-
-* Communication & Presentation Skills
-* Technical & Business Writing
-* Professional Practices in IT *(Current)*
-* Digital Sustainability *(Current)*
-* Final Year Project I *(Current)*
-
 </details>
 
 ---
 
-# 🌱 Currently Learning & Expanding
-
-🧠 **Agentic AI** — intelligent agents, reasoning, planning and autonomous AI workflows
-
-🔐 **Information Security** — security principles, secure systems and cryptographic foundations
-
-📊 **Statistical Modelling** — statistical models, inference and data-driven analysis
-
-🌱 **Digital Sustainability** — sustainable computing, energy efficiency and responsible IT
-
-🤖 **AI Systems** — deeper ML/DL, computer vision and intelligent robotics
-
-⚙️ **Software Engineering** — scalable architectures, backend systems and production-quality software
-
-🚀 **ML Engineering** — deployment, inference pipelines and real-world AI integration
-
----
-
-# 🎯 Areas of Interest
+# ☕ Backend & Application Engineering
 
 <div align="center">
 
-**Artificial Intelligence** • **Machine Learning** • **Deep Learning**
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+![DotNet](https://skillicons.dev/icons?i=dotnet)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-**Computer Vision** • **Natural Language Processing** • **Agentic AI**
+</div>
 
-**Robotics** • **Embedded Systems** • **Autonomous Systems**
+<table>
+<tr>
+<td width="50%">
 
-**Software Engineering** • **Backend Development** • **Distributed Computing**
+### Backend
 
-**Data Science** • **Statistical Computing** • **High-Performance Computing**
+`Java`
+`Spring Boot`
+`Spring MVC`
+`Dependency Injection`
+`Repository Pattern`
+`Service Layer`
+`REST APIs`
+`CRUD`
+`Entity Modelling`
+`Transactions`
+`Validation`
+`Exception Handling`
+
+</td>
+
+<td width="50%">
+
+### Database Engineering
+
+`SQL Server`
+`MySQL`
+`MongoDB`
+`T-SQL`
+`Database Design`
+`Normalization`
+`Stored Procedures`
+`Triggers`
+`Constraints`
+`Data Cleaning`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technology Command Center
+
+### 👨‍💻 Languages
+
+<div align="center">
+
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,html,css\&perline=8)](https://skillicons.dev)
+
+<br/>
+
+`SQL` • `T-SQL` • `x86 Assembly`
+
+</div>
+
+### ⚙️ Frameworks & Technologies
+
+<div align="center">
+
+[![Frameworks](https://skillicons.dev/icons?i=spring,dotnet,pytorch,tensorflow,sklearn,arduino,ros,docker\&perline=8)](https://skillicons.dev)
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb\&perline=8)](https://skillicons.dev)
+
+<br/>
+
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+
+</div>
+
+### 🔧 Developer Tools
+
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,cmake,gradle,linux,vscode,visualstudio\&perline=8)](https://skillicons.dev)
+
+<br/>
+
+`Ubuntu` • `WSL` • `MATLAB` • `Arduino IDE` • `Cisco Packet Tracer`
 
 </div>
 
 ---
 
-# 💡 Engineering Philosophy
+# 📚 Academic Knowledge Base
 
-> **Build systems that do more than demonstrate an algorithm — build systems where software, data, intelligence, mathematics, and hardware work together to solve real problems.**
+<details>
+<summary><b>💻 Programming & Software Courses</b></summary>
+
+<br/>
+
+```text
+Programming Fundamentals
+├── Programming Fundamentals Lab
+├── Object-Oriented Programming
+├── Object-Oriented Programming Lab
+├── Data Structures
+├── Data Structures Lab
+├── Design & Analysis of Algorithms
+├── Software Design & Analysis
+└── Software Engineering
+```
+
+</details>
+
+<details>
+<summary><b>🖥️ Systems Courses</b></summary>
+
+<br/>
+
+```text
+Computer Systems
+├── Digital Logic Design
+├── Digital Logic Design Lab
+├── Computer Organization & Assembly Language
+├── Computer Organization & Assembly Language Lab
+├── Operating Systems
+├── Operating Systems Lab
+├── Computer Networks
+├── Computer Networks Lab
+├── Parallel & Distributed Computing
+└── Information Security [Current]
+```
+
+</details>
+
+<details>
+<summary><b>🧠 AI & Robotics Courses</b></summary>
+
+<br/>
+
+```text
+Intelligent Systems
+├── Artificial Intelligence
+├── Artificial Intelligence Lab
+├── Robotics Technology
+├── Embedded Control of Robotics
+├── Machine Learning for Robotics
+└── Agentic Artificial Intelligence [Current]
+```
+
+</details>
+
+<details>
+<summary><b>📊 Mathematics & Data Courses</b></summary>
+
+<br/>
+
+```text
+Mathematical Computing
+├── Calculus & Analytical Geometry
+├── Linear Algebra
+├── Differential Equations
+├── Probability & Statistics
+├── Numerical Computing
+└── Statistical Modelling [Current]
+```
+
+</details>
+
+<details>
+<summary><b>🌱 Professional & Interdisciplinary Courses</b></summary>
+
+<br/>
+
+```text
+Professional Development
+├── Communication & Presentation Skills
+├── Technical & Business Writing
+├── Professional Practices in IT [Current]
+├── Digital Sustainability [Current]
+└── Final Year Project I [Current]
+```
+
+</details>
 
 ---
 
-# 📊 GitHub Analytics
+# 🛰️ Currently Exploring
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖
+
+**Agentic AI**
+
+Agents
+Planning
+Reasoning
+Tool Use
+Workflows
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+
+**Security**
+
+CIA Triad
+Cryptography
+Access Control
+Secure Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+
+**Statistical Modelling**
+
+Regression
+Estimation
+Inference
+Model Evaluation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌱
+
+**Sustainability**
+
+Green IT
+Energy Efficiency
+E-Waste
+Carbon-Aware IT
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧬 Developer DNA
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=rohaan2802&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=rohaan2802&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rohaan2802&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+```text
+                    ┌──────────────────────────┐
+                    │    INTELLIGENT SYSTEMS   │
+                    └────────────┬─────────────┘
+                                 │
+             ┌───────────────────┼───────────────────┐
+             │                   │                   │
+             ▼                   ▼                   ▼
+      ┌────────────┐      ┌────────────┐      ┌────────────┐
+      │ AI / DATA  │      │ SOFTWARE   │      │  ROBOTICS  │
+      └──────┬─────┘      └──────┬─────┘      └──────┬─────┘
+             │                   │                   │
+      ML • DL • CV          Backend • DSA        ESP32 • ROS
+      NLP • Stats           OS • Database        Sensors • CV
+             │                   │                   │
+             └───────────────────┼───────────────────┘
+                                 │
+                                 ▼
+                       ┌──────────────────┐
+                       │ REAL-WORLD SYSTEM │
+                       └──────────────────┘
+```
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Dashboard
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohaan2802&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=rohaan2802&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rohaan2802&theme=tokyonight&hide_border=true&layout=compact"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=rohaan2802&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🤝 Connect With Me
+# 🏆 Achievement Board
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/m-rohaan-944a82320/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://rohaan2802.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rohaan2802)
+<img src="https://github-profile-trophy.vercel.app/?username=rohaan2802&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohaan2802&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/rohaan2802/rohaan2802/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> The contribution snake requires a small GitHub Actions workflow in the profile repository to generate the SVG.
+
+---
+
+# 🗺️ What I'm Building Toward
+
+```mermaid
+flowchart LR
+    A[Computer Science] --> B[Software Engineering]
+    A --> C[Artificial Intelligence]
+    A --> D[Mathematical Computing]
+
+    C --> E[Machine Learning]
+    E --> F[Deep Learning]
+    F --> G[Computer Vision]
+
+    B --> H[Backend Systems]
+    B --> I[Parallel & Distributed Systems]
+
+    D --> J[Statistics]
+    D --> K[Linear Algebra]
+
+    G --> L[Intelligent Robotics]
+    H --> L
+    I --> L
+    J --> L
+    K --> L
+
+    L --> M[Real-World Intelligent Systems]
+```
+
+---
+
+# 🤝 Collaboration Console
+
+<table>
+<tr>
+<td width="50%">
+
+### 💡 Interested In
+
+* AI / ML
+* Computer Vision
+* Robotics
+* Autonomous Systems
+* Data Science
+* Backend Engineering
+* Parallel Computing
+* Embedded Systems
+
+</td>
+
+<td width="50%">
+
+### 🤝 Open To
+
+* Open-source projects
+* Research projects
+* AI/ML projects
+* Robotics projects
+* Backend systems
+* Computer vision systems
+* Engineering collaborations
+* Technical learning
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Rohaan-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/m-rohaan-944a82320/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rohaan2802.github.io-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://rohaan2802.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-rohaan2802-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rohaan2802)
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:m.rohaanarshad@gmail.com)
+
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohaan2802\&style=for-the-badge)
+### 💻 Code. 🧠 Learn. 🤖 Build. 🚀 Improve.
 
-### ⭐ Thanks for visiting!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%"/>
 
 </div>
