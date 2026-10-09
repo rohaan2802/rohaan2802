@@ -1505,8 +1505,6 @@ MATLAB + Mathematics
 </p>
 
 
-> Contribution animation appears after the corresponding GitHub Actions workflow generates the SVG.
-
 ---
 
 # 🎯 Development Roadmap
